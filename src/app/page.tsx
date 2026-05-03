@@ -51,7 +51,7 @@ export default function LandingPage() {
       testimonials={[
         {
           name: "James Fallon",          handle: "@jamesf",          testimonial: "30 mins for an iPhone charging fix. Incredible price and reliable warranty.",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/body-scrub-dried-shell-essential-oil-soap-bar-napkin-smartphone-black-background_23-2147971434.jpg",          imageAlt: "smartphone repair professional gold light"},
+          imageSrc: "http://img.b2bpic.net/free-photo/body-scrub-dried-shell-essential-oil-soap-bar-napkin-smartphone-black-background_23-2147971434.jpg?_wi=1",          imageAlt: "smartphone repair professional gold light"},
         {
           name: "Ali Idris",          handle: "@aliidris",          testimonial: "Sorted my phone virus in a flash. The best in town.",          rating: 5,
           imageSrc: "http://img.b2bpic.net/free-photo/smartphone-icon-right-side-with-white-background_187299-39979.jpg",          imageAlt: "smartphone repair professional gold light"},
@@ -63,7 +63,7 @@ export default function LandingPage() {
           imageSrc: "http://img.b2bpic.net/free-photo/cyber-monday-neon-sale_23-2152027235.jpg",          imageAlt: "smartphone repair professional gold light"},
         {
           name: "Sami Circeie",          handle: "@samic",          testimonial: "Best tech shop in Northampton for 5 years running.",          rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/serious-businessman-headset-using-laptop_74855-3069.jpg",          imageAlt: "smartphone repair professional gold light"},
+          imageSrc: "http://img.b2bpic.net/free-photo/serious-businessman-headset-using-laptop_74855-3069.jpg?_wi=1",          imageAlt: "smartphone repair professional gold light"},
       ]}
       buttons={[
         {
@@ -71,7 +71,7 @@ export default function LandingPage() {
         {
           text: "Our Services",          href: "#services"},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/body-scrub-dried-shell-essential-oil-soap-bar-napkin-smartphone-black-background_23-2147971434.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/body-scrub-dried-shell-essential-oil-soap-bar-napkin-smartphone-black-background_23-2147971434.jpg?_wi=2"
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/confident-model-with-pink-bob-hairstyle-flaunts-bold-attitude-fashion-forward-shoot-with_482257-133950.jpg",          alt: "Confident model with pink bob hairstyle flaunts bold attitude"},
@@ -125,7 +125,7 @@ export default function LandingPage() {
         {
           value: "30min",          title: "Express Turnaround"},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/serious-businessman-headset-using-laptop_74855-3069.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/serious-businessman-headset-using-laptop_74855-3069.jpg?_wi=2"
       mediaAnimation="slide-up"
       metricsAnimation="slide-up"
     />
