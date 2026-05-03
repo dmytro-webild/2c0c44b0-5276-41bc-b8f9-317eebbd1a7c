@@ -62,7 +62,7 @@ export default function LandingPage() {
           handle: "@jamesf",
           testimonial: "30 mins for an iPhone charging fix. Incredible price and reliable warranty.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/body-scrub-dried-shell-essential-oil-soap-bar-napkin-smartphone-black-background_23-2147971434.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/body-scrub-dried-shell-essential-oil-soap-bar-napkin-smartphone-black-background_23-2147971434.jpg?_wi=1",
           imageAlt: "smartphone repair professional gold light",
         },
         {
@@ -70,7 +70,7 @@ export default function LandingPage() {
           handle: "@aliidris",
           testimonial: "Sorted my phone virus in a flash. The best in town.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/smartphone-icon-right-side-with-white-background_187299-39979.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/smartphone-icon-right-side-with-white-background_187299-39979.jpg?_wi=1",
           imageAlt: "smartphone repair professional gold light",
         },
         {
@@ -78,7 +78,7 @@ export default function LandingPage() {
           handle: "@salmana",
           testimonial: "MacBook Air logic board repair under an hour. Truly top-tier service.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-vector/creative-linear-flat-laptop-logo-template_23-2149008089.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/creative-linear-flat-laptop-logo-template_23-2149008089.jpg?_wi=1",
           imageAlt: "smartphone repair professional gold light",
         },
         {
@@ -86,7 +86,7 @@ export default function LandingPage() {
           handle: "@annanap",
           testimonial: "Customer service beyond the charts. Amazing experience.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/cyber-monday-neon-sale_23-2152027235.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cyber-monday-neon-sale_23-2152027235.jpg?_wi=1",
           imageAlt: "smartphone repair professional gold light",
         },
         {
@@ -94,7 +94,7 @@ export default function LandingPage() {
           handle: "@samic",
           testimonial: "Best tech shop in Northampton for 5 years running.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/serious-businessman-headset-using-laptop_74855-3069.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/serious-businessman-headset-using-laptop_74855-3069.jpg?_wi=1",
           imageAlt: "smartphone repair professional gold light",
         },
       ]}
@@ -108,7 +108,7 @@ export default function LandingPage() {
           href: "#services",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/body-scrub-dried-shell-essential-oil-soap-bar-napkin-smartphone-black-background_23-2147971434.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/body-scrub-dried-shell-essential-oil-soap-bar-napkin-smartphone-black-background_23-2147971434.jpg?_wi=2"
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/confident-model-with-pink-bob-hairstyle-flaunts-bold-attitude-fashion-forward-shoot-with_482257-133950.jpg",
@@ -146,7 +146,7 @@ export default function LandingPage() {
           description: "Screen, battery, and port repairs in 30 minutes.",
           bentoComponent: "reveal-icon",
           icon: Smartphone,
-          imageSrc: "http://img.b2bpic.net/free-photo/smartphone-icon-right-side-with-white-background_187299-39979.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/smartphone-icon-right-side-with-white-background_187299-39979.jpg?_wi=2",
           imageAlt: "smartphone repair gold icon",
         },
         {
@@ -154,7 +154,7 @@ export default function LandingPage() {
           description: "Expert motherboard, liquid damage, and SSD services.",
           bentoComponent: "reveal-icon",
           icon: Laptop,
-          imageSrc: "http://img.b2bpic.net/free-photo/body-scrub-dried-shell-essential-oil-soap-bar-napkin-smartphone-black-background_23-2147971434.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/body-scrub-dried-shell-essential-oil-soap-bar-napkin-smartphone-black-background_23-2147971434.jpg?_wi=3",
           imageAlt: "smartphone repair gold icon",
         },
         {
@@ -162,7 +162,7 @@ export default function LandingPage() {
           description: "Tested, durable cases and high-speed chargers.",
           bentoComponent: "reveal-icon",
           icon: Headphones,
-          imageSrc: "http://img.b2bpic.net/free-vector/creative-linear-flat-laptop-logo-template_23-2149008089.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/creative-linear-flat-laptop-logo-template_23-2149008089.jpg?_wi=2",
           imageAlt: "smartphone repair gold icon",
         },
         {
@@ -170,7 +170,7 @@ export default function LandingPage() {
           description: "Reliable devices with 12-month warranties.",
           bentoComponent: "reveal-icon",
           icon: Smartphone,
-          imageSrc: "http://img.b2bpic.net/free-photo/cyber-monday-neon-sale_23-2152027235.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cyber-monday-neon-sale_23-2152027235.jpg?_wi=2",
           imageAlt: "smartphone repair gold icon",
         },
       ]}
@@ -198,7 +198,7 @@ export default function LandingPage() {
           title: "Express Turnaround",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/serious-businessman-headset-using-laptop_74855-3069.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/serious-businessman-headset-using-laptop_74855-3069.jpg?_wi=2"
       mediaAnimation="slide-up"
       metricsAnimation="slide-up"
     />
